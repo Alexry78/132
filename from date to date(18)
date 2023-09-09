@@ -1,0 +1,7 @@
+
+# Online Python - IDE, Editor, Compiler, Interpreter
+import datetime
+d1=datetime.datetime (2024, 1, 4, 8, 30)
+d2=datetime.datetime.now()
+x=d1-d2
+print(x)
